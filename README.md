@@ -23,5 +23,7 @@ https://zenodo.org/records/10951704- Contains the derived data from Kaggle: Cont
 
 https://zenodo.org/records/10951709 - Contains the dataset from Kaggle: IA text, Train sequence, GO file, Test Superset etc.
 
+https://www.kaggle.com/datasets/zmcxjt/cafa5-train-test-data - Contains a part of the encoded sequences used in PROTGOAT
+
 
 
