@@ -6,7 +6,7 @@ This repository contains code and documentation related to the CAFA-5 protein fu
 ## Contributors
 - **Harshavardhana A S**: Implemented BLAST-KNN, 3MER, and InterPro feature extraction methods as a preliminary stage to enhance the baseline solution.
 - **Unnath**: Assisted in conducting a literature survey on alternative methods to NetGo and explored various protein embedding techniques.
-- **Chris**: Developed the Exploratory Data Analysis (EDA) for CAFA 5 protein data and explored the Kaggle winner 4 solution, along with literature documents and surveys for protein encoding techniques.
+- **Chris**: Developed the Exploratory Data Analysis (EDA) for CAFA 5 protein data and explored and implemented part of the Kaggle fourth-place winner's solution, along with literature documents and surveys for protein encoding techniques.
 
 ## Project Structure
 
@@ -15,6 +15,12 @@ This repository contains code and documentation related to the CAFA-5 protein fu
   CAFA_5_starting_point.ipynb - EDA Exploration of CAFA 5 challenge
 
   CAFA_KNN_BLAST.ipynb - Algorithm implementation of BLAST KNN method to extract homologous proteins
+
+  ankh-embeddings-make.ipynb - Make the ANKH embeddings
+
+  CAFA5_Train_and_infer_f02.ipynb - Code for training and testing the model (WIP)
+
+  train-test-generate-abstract-embeddings.ipynb - Code to get and encode literature data for each protein sequence
 
 
 ## Data Sources:
